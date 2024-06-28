@@ -1,4 +1,11 @@
-# Academy
+# About the Academy Project
+
+This project aims to train and evolve within Angular and its numerous versions. My goal is to create an environment for continuous learning, exploring advanced development techniques with Angular.
+
+Whether you're a beginner seeking to understand Angular fundamentals or an experienced developer wanting to update your skills with the latest versions, this repository provides valuable resources to enhance your abilities.
+
+##
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.6.
 
