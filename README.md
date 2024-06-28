@@ -6,7 +6,11 @@ Whether you're a beginner seeking to understand Angular fundamentals or an exper
 
 ##
 
+## Installation Instructions
+If Angular CLI is not installed globally, install it using the command <br>
+* npm install
 
+##
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.6.
 
 ## Development server
